@@ -1,0 +1,10 @@
+library_management_system/db.sqlite3
+*.sqlite3
+media/
+.venv/
+venv/
+.env
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
