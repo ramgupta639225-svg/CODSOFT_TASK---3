@@ -1,6 +1,6 @@
 from django.db import models
 
-from library_management_system.books.models import Book
+from books.models import Book
 
 
 # Create your models here.
