@@ -7,6 +7,8 @@ from .views import AuthorViewSet
 router = DefaultRouter()
 router.register(r'authors', AuthorViewSet)
 
+
+
 urlpatterns = [
 
     path('', include(router.urls)),
