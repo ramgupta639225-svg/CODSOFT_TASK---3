@@ -8,4 +8,3 @@ class IssuedBookSerializer(serializers.ModelSerializer):
         model = IssuedBook
         fields = '__all__'
 
-        
