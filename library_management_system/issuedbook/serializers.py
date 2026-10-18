@@ -10,10 +10,6 @@ class IssuedBookSerializer(serializers.ModelSerializer):
 
 
 
-
-
-
-
     class Meta:
         model = IssuedBook
         fields = '__all__'
