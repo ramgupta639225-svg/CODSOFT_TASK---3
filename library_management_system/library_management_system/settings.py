@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'authors',
     'members',
     'issuedbook',
+    'django_filters',
+
 ]
 
 MIDDLEWARE = [
