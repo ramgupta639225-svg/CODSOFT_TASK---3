@@ -24,4 +24,3 @@ class MemberViewSet(viewsets.ModelViewSet):
     filterset_fields = ['is_active']
     search_fields = ['name', 'email', 'phone']
     ordering_fields = ['name', 'membership_date']
-
